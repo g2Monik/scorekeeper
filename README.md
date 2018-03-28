@@ -25,4 +25,4 @@
 ##### Descripcion.
 ###### Flujo a seguir de nuestro programa
 
-![Diagrama de flujo de SCOREKEEPER](assets/img/diagrama-flujo-scorekeeper.png)
+![Diagrama de flujo de SCOREKEEPER](assets/image/diagrama-flujo-scorekeeper.png)
